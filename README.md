@@ -28,4 +28,4 @@ Classes done
 - Partially Shaman
 
 Classes todo
--ALL
+- ALL
